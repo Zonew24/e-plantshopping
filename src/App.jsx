@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import ProductList from './Plants';
-import './App.css';
 
 function App() {
   const [showProductList, setShowProductList] = useState(false);
